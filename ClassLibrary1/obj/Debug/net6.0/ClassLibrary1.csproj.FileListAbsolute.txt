@@ -1,0 +1,12 @@
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+D:\HomeWork\Projects\WindowsFormsApp3\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
